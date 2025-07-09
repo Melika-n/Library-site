@@ -1,4 +1,4 @@
-Library Management Software (Advanced Programming Project)
+Library Management Software 
 
 Features:
 - Member login: borrow and extend books (max 4)
